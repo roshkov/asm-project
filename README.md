@@ -212,7 +212,6 @@ To conclude all the previosuly highlighted topics specify the device and all the
 
 # __9	Project future__
 
-@ !-------- Nikita Roskovs -------!
 
 Reflect on your project from a technical viewpoint and describe what you would change if you could.
 
