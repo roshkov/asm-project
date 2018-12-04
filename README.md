@@ -197,8 +197,7 @@ For assessing the correctness of work the Black-box testing method was used.
 Test cases:
 	
 	1. Object is being placed in a ultrasonic sensor range of vision. Result: Buzzer emits the sound
-	
-       	2. Object located in sensors range is moving closer to the sensor. Result: Frequency of sound emitted is increasing.
+	2. Object located in sensors range is moving closer to the sensor. Result: Frequency of sound emitted is increasing.
 	2.1 Object located in sensors range is moving farther from the sensor. Result: Frequency of sound emitted is decreasing.
 	
 All test cases have given the expected result. Requirements set were fulfilled	
